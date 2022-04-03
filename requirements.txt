@@ -1,0 +1,4 @@
+mysqlclient==2.1.0
+fastapi==0.75.1
+uvicorn==0.17.6
+peewee==3.14.10
