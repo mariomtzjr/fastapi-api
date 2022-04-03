@@ -1,7 +1,6 @@
 # fastapi and peewee ORM
 
-##
-FastAPI CRUD with peewee ORM
+## FastAPI CRUD with peewee ORM
 
 ### Requirements
 - mysqlclient 2.1.0
